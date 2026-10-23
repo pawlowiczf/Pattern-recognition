@@ -7,6 +7,7 @@ dependencies = [
     "ipywidgets>=8.1.9",
     "jupyter>=1.1.1",
     "jupyter-notebook-renderer>=0.0.2",
+    "kagglehub>=1.0.3",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
     "opencv-python>=5.0.0.93",
