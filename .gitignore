@@ -222,3 +222,5 @@ __marimo__/
 # Data
 /labs/lab01/data/
 /labs/lab02/data/
+
+/driving_detection/data
