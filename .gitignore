@@ -224,3 +224,5 @@ __marimo__/
 /labs/lab02/data/
 
 /driving_detection/data
+/driving_detection/models
+/driving_detection/predictions
