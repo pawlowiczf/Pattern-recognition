@@ -16,4 +16,5 @@ dependencies = [
     "ruff>=0.17.1",
     "scikit-image>=0.26.0",
     "scikit-learn>=1.9.1",
+    "ultralytics>=8.4.216",
 ]

@@ -226,3 +226,4 @@ __marimo__/
 /driving_detection/data
 /driving_detection/models
 /driving_detection/predictions
+/driving_detection/yolo26n.pt
